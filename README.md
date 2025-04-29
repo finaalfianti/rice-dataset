@@ -33,4 +33,4 @@ pip install -r requirements.txt
 ```
 
 **2. Jalankan notebook:**
-Buka notebook.ipynb untuk melihat seluruh proses mulai dari preprocessing, pelatihan, evaluasi, hingga konversi model.
+Buka notebook.ipynb untuk melihat seluruh proses mulai dari preprocessing, pelatihan, evaluasi, hingga konversi model. 
